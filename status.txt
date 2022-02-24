@@ -1,0 +1,11 @@
+We were struck with the installation  of Cluster Essentials as we could not execute the commands in windows. Later in linux, we started running one by one.
+
+We firstly ran the cluster using Azure kubernetes service and connected it with azure cli in linux.
+We have completed installing the following:
+
+cluster essentials
+tanzu cli
+
+Later, we added the Tanzu Application Platform package repository by following the commands as specified in the vmware site.
+
+Now, currently we are working in Tanzu Application Platform profile installation.
